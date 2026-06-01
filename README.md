@@ -8,11 +8,11 @@ Below are demonstrations of the bot interface and analysis pipeline:
 
 ![Start and Ingestion](Img/1.png)
 
-![Orchestration Progress](Img/2.png)
+![Orchestration Progress](Img/4.png)
 
-![Interactive Alignment Selector](Img/3.png)
+![Interactive Alignment Selector](Img/2.png)
 
-![Verified Job Alignments and On-Demand Explanations](Img/4.png)
+![Verified Job Alignments and On-Demand Explanations](Img/3.png)
 
 ## Core Pipeline
 
